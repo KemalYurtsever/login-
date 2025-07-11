@@ -178,7 +178,7 @@ input:checked + .slider {
 
 .signup-container button {
   width: 100%;
-  margin:2em;
+  margin: 2em;
   padding: 1rem;
   border-radius: 100px;
   font-size: 1rem;
@@ -205,9 +205,9 @@ input:checked + .slider {
 }
 
 a {
-  text-decoration: none; 
-  color: white; 
-  font-weight: bold; 
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
 }
 
 input + label.floating {
@@ -229,17 +229,15 @@ input:valid + label.floating {
   color: #000;
 }
 
-
 .input-wrapper {
   position: relative;
   width: 100%;
-} 
+}
 .name-surname-row > div,
 .password-container,
 .signup-container > div {
   position: relative;
 }
-
 
 .input-wrapper input,
 .name-surname-row input,
